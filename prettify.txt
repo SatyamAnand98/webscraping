@@ -1,0 +1,19 @@
+<div class="item-container" data-itemnumber="29-102-103">
+ <a class="item-img" href="https://www.newegg.com/global/in-en/Product/Product.aspx?Item=29-102-103&amp;cm_sp=SearchSuccess-_-INFOCARD-_-graphics+cards-_-29-102-103-_-1&amp;Description=graphics+cards">
+  <img alt="Creative Sound BlasterX G6 Hi-Res Gaming DAC and USB Sound Card with Xamp Headphone Bi-Amplifier for PC, PS4, Xbox and Nintendo Switch" src="//c1.neweggimages.com/ProductImageCompressAll300/29-102-103-V10.jpg" title="Creative Sound BlasterX G6 Hi-Res Gaming DAC and USB Sound Card with Xamp Headphone Bi-Amplifier for PC, PS4, Xbox and Nintendo Switch"/>
+ </a>
+ <div class="item-info">
+  <div class="item-branding">
+   <a class="item-rating" href="https://www.newegg.com/global/in-en/Product/Product.aspx?Item=29-102-103&amp;cm_sp=SearchSuccess-_-INFOCARD-_-graphics+cards-_-29-102-103-_-1&amp;Description=graphics+cards&amp;IsFeedbackTab=true#scrollFullInfo">
+    <i class="rating rating-5">
+    </i>
+    <span class="item-rating-num">
+     (9)
+    </span>
+   </a>
+  </div>
+  <a class="item-title" href="https://www.newegg.com/global/in-en/Product/Product.aspx?Item=29-102-103&amp;cm_sp=SearchSuccess-_-INFOCARD-_-graphics+cards-_-29-102-103-_-1&amp;Description=graphics+cards">
+   Creative Sound BlasterX G6 Hi-Res Gaming DAC and USB Sound Card with Xamp Hea...
+  </a>
+ </div>
+</div>
